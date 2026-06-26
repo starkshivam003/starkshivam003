@@ -1,27 +1,50 @@
-# Hi, I'm Shivam Kumar 👋
+# Shivam Kumar
 
-BT-MT @ IIT Kanpur | Biological Sciences & Bioengineering  
-Building toward Day 1 placements at top product companies.
+BT-MT @ IIT Kanpur (Biological Sciences & Bioengineering, 2022–27)  
+AIR 15 — GATE Biomedical 2026 | MCM Scholar
 
-## What I'm doing right now
-- 🧠 DSA in C++ — NeetCode 150 + Striver A2Z
-- 🤖 ML/AI — Andrew Ng Specializations (starting soon)
-- 🔬 Research — proteomics, HPC, structural biology at IITK
+I build things at the intersection of systems, ML, and biology.  
+Currently preparing for placements — all prep is public and trackable.
 
-## Technical Skills
-`C++` `Python` `JavaScript` `React` `Node.js` `C`  
-`MPI` `CUDA` `SLURM` `Docker` `MySQL` `MongoDB` `LaTeX`
-
-## Key Projects
-- **Privacy-Preserving Recommender** — MPC, Beaver triples, Du-Atallah secret sharing in C++
-- **MPI Parallel HPC Programs** — 3D stencil, 12x speedup on IITK cluster
-- **MUFASA v4.0** — Full-stack proteomics suite (ongoing)
-- **XOR Arbiter PUF Attack** — 92.63% accuracy via polynomial SVM
-
-## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=starkshivam003&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshivam003&layout=compact&theme=dark&hide_border=true)
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/user8411Qu?theme=dark&font=baloo&ext=contest)
 ---
-*AIR 15 — GATE Biomedical 2026 | Researcher | IIT Kanpur*
+
+## Work
+
+| Project | What it actually does | Repo |
+|---------|----------------------|------|
+| Privacy-Preserving Recommender | Recommender system where the server never sees user data — built MPC from scratch using Beaver triples and Du-Atallah secret sharing | [→](#) |
+| MPI Parallel HPC Programs | Parallelized 3D stencil computation on IITK cluster — achieved 12x speedup over serial baseline using MPI + SLURM | [→](#) |
+| XOR Arbiter PUF Attack | Broke hardware security primitive using 121-D feature map + degree-4 polynomial SVM — 92.63% accuracy | [→](#) |
+| MUFASA v4.0 | Full-stack proteomics annotation suite — ongoing BT-MT research project | [→](#) |
+
+*Replace [→](#) with actual repo links as they go public*
+
+---
+
+## Placement Prep (public, trackable)
+
+Everything I do for placements lives in [`placement-prep`](https://github.com/starkshivam003/placement-prep).
+
+Current status:
+- DSA: solving NeetCode 150 in C++ — every solution documented with my attempts and learnings
+- ML/AI: Andrew Ng specializations starting Day 45
+- Target: fully interview-ready by December 1, 2026
+
+---
+
+## Skills
+
+C++ · Python · C · JavaScript · React · Node.js  
+MPI · CUDA · SLURM · Docker · MySQL · MongoDB · Linux · LaTeX
+
+---
+
+## Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=starkshivam003&theme=dark&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/user8411Qu?theme=dark&font=baloo&ext=contest)
+
+---
+
+*This profile is updated as work happens — not curated after the fact.*
