@@ -20,6 +20,6 @@ Building toward Day 1 placements at top product companies.
 
 ## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=starkshivam003&theme=dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starkshivam003&layout=compact&theme=dark&hide_border=true)
 ---
 *AIR 15 — GATE Biomedical 2026 | Researcher | IIT Kanpur*
