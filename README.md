@@ -19,7 +19,7 @@ Building toward Day 1 placements at top product companies.
 - **XOR Arbiter PUF Attack** — 92.63% accuracy via polynomial SVM
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=starkshivam003&theme=dark&hide_border=true)
 
 ---
 *AIR 15 — GATE Biomedical 2026 | Researcher | IIT Kanpur*
