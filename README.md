@@ -41,5 +41,3 @@ MPI · CUDA · SLURM · Docker · MySQL · MongoDB · Linux · LaTeX
 ![GitHub Streak](https://streak-stats.demolab.com?user=starkshivam003&theme=dark&hide_border=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user8411Qu?theme=dark&font=baloo&ext=contest)
-
----
