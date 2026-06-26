@@ -1,7 +1,7 @@
 # Shivam Kumar
 
 BT-MT @ IIT Kanpur (Biological Sciences & Bioengineering, 2022–27)  
-AIR 15 — GATE Biomedical 2026 | MCM Scholar
+AIR 15 — GATE Biomedical 2026 | Researcher | Engineer
 
 I build things at the intersection of systems, ML, and biology.  
 Currently preparing for placements — all prep is public and trackable.
@@ -19,14 +19,13 @@ Currently preparing for placements — all prep is public and trackable.
 
 ---
 
-## Placement Prep (public, trackable)
+## Placement Prep
 
 Everything I do for placements lives in [`placement-prep`](https://github.com/starkshivam003/placement-prep).
 
 Current status:
-- DSA: solving NeetCode 150 in C++ — every solution documented with my attempts and learnings
+- DSA: solving NeetCode150, striver A2Z, etc in C++ — every solution documented with my attempts and learnings
 - ML/AI: Andrew Ng specializations starting Day 45
-- Target: fully interview-ready by December 1, 2026
 
 ---
 
@@ -44,5 +43,3 @@ MPI · CUDA · SLURM · Docker · MySQL · MongoDB · Linux · LaTeX
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user8411Qu?theme=dark&font=baloo&ext=contest)
 
 ---
-
-*This profile is updated as work happens — not curated after the fact.*
