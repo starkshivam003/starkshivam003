@@ -14,8 +14,8 @@ Currently preparing for placements — all prep is public and trackable.
 |---------|----------------------|------|
 | Privacy-Preserving Recommender | Recommender system where the server never sees user data — built MPC from scratch using Beaver triples and Du-Atallah secret sharing | [`privacy-preserving-recommender`](https://github.com/starkshivam003/privacy-preserving-recommender.git) |
 | MPI Parallel HPC Programs | Parallelized 3D stencil computation on IITK cluster — achieved 12x speedup over serial baseline using MPI + SLURM | [`mpi-parallel-hpc-programs`](https://github.com/starkshivam003/mpi-parallel-hpc-programs.git) |
-<!--| XOR Arbiter PUF Attack | Broke hardware security primitive using 121-D feature map + degree-4 polynomial SVM — 92.63% accuracy | [→](#) |-->
 | MUFASA v4.0 | Full-stack proteomics annotation suite — ongoing BT-MT research project | [`mufasa-sequence-editor`](https://github.com/starkshivam003/mufasa-sequence-editor.git) |
+<!--| XOR Arbiter PUF Attack | Broke hardware security primitive using 121-D feature map + degree-4 polynomial SVM — 92.63% accuracy | [→](#) |-->
 
 ---
 
