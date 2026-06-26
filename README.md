@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shivam Kumar 👋
 
-<!--
-**starkshivam003/starkshivam003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BT-MT @ IIT Kanpur | Biological Sciences & Bioengineering  
+Building toward Day 1 placements at top product companies.
 
-Here are some ideas to get you started:
+## What I'm doing right now
+- 🧠 DSA in C++ — NeetCode 150 + Striver A2Z
+- 🤖 ML/AI — Andrew Ng Specializations (starting soon)
+- 🔬 Research — proteomics, HPC, structural biology at IITK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+`C++` `Python` `JavaScript` `React` `Node.js` `C`  
+`MPI` `CUDA` `SLURM` `Docker` `MySQL` `MongoDB` `LaTeX`
+
+## Key Projects
+- **Privacy-Preserving Recommender** — MPC, Beaver triples, Du-Atallah secret sharing in C++
+- **MPI Parallel HPC Programs** — 3D stencil, 12x speedup on IITK cluster
+- **MUFASA v4.0** — Full-stack proteomics suite (ongoing)
+- **XOR Arbiter PUF Attack** — 92.63% accuracy via polynomial SVM
+
+## GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+
+---
+*AIR 15 — GATE Biomedical 2026 | Researcher | IIT Kanpur*
