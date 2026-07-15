@@ -42,6 +42,3 @@ MPI · CUDA · SLURM · Docker · MySQL · MongoDB · Linux · LaTeX
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user8411Qu?theme=dark&font=baloo&ext=contest)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=user8411Qu&theme=github-dark)
-
-
-![Chess.com Rating](https://chesscom-stats-svg.vercel.app/stats?username=knull789)
