@@ -8,10 +8,9 @@
 **`BT-MT @ IIT Kanpur`** · Biological Sciences & Bioengineering (2022–27)  
 **`AIR 15`** — GATE Biomedical Engineering 2026  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-kumar-iitk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shivam-kumar-iitk](https://www.linkedin.com/in/shivam-kumar-b20730273/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starkshivam003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/user8411Qu)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkaakkaarroott12345@gmail.com)
 
 </div>
 
